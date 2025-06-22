@@ -1,4 +1,4 @@
-# PostgreSQL_Project1
+# PostgreSQL Course Project
 
 ## TASK 1
 ### Task 1.1
